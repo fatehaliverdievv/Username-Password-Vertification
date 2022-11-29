@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\classwork29_11\classwork29_11\bin\Debug\net5.0\classwork29_11.exe
+C:\Users\User\Desktop\classwork29_11\classwork29_11\bin\Debug\net5.0\classwork29_11.deps.json
+C:\Users\User\Desktop\classwork29_11\classwork29_11\bin\Debug\net5.0\classwork29_11.runtimeconfig.json
+C:\Users\User\Desktop\classwork29_11\classwork29_11\bin\Debug\net5.0\classwork29_11.runtimeconfig.dev.json
+C:\Users\User\Desktop\classwork29_11\classwork29_11\bin\Debug\net5.0\classwork29_11.dll
+C:\Users\User\Desktop\classwork29_11\classwork29_11\bin\Debug\net5.0\classwork29_11.pdb
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.AssemblyInfo.cs
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.dll
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\refint\classwork29_11.dll
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.pdb
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\classwork29_11.genruntimeconfig.cache
+C:\Users\User\Desktop\classwork29_11\classwork29_11\obj\Debug\net5.0\ref\classwork29_11.dll
